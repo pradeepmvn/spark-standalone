@@ -1,0 +1,10 @@
+{
+  "name": "todo",
+  "version": "0.0.2",
+  "private": true,
+  "dependencies": {
+    "body-parser": "1.0.2",
+    "express": "4.0.0",
+    "rethinkdb": "^2.2.1"
+  }
+}
